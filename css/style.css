@@ -621,8 +621,8 @@ label.message-text {
    _____________________________________ */
 
 .vert-middle {
-  min-height: 700px;
-  height: 100%;
+  /*min-height: 700px;*/
+  /*height: 100%;*/
   align-items: center;
   display: flex;
 }
